@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, My name is Yoobin Hong 👋
+I am a frontend engineer with over 5 years of experience. I started my journey as a self-taught engineer after working in retail for about a year after my graduation. I began by watching a lot of learning materials on YouTube, Udemy, and Treehouse, and started building my own portfolio of projects. That led me to my first opportunity as a web developer at Macquarie. From there, I kept learning different skills that I didn't have at that time, such as React, TypeScript, GraphQL, React Query, Jest, React Testing Library, etc., to constantly upgrade my skills as a developer. I went on to work at IKEA as a frontend engineer and then got a chance to work as a frontend engineer at Best Buy Health. Five years have already passed, and I have met great mentors throughout my journey and have learned a ton, but I still have the same motivation, which is to always grow as an engineer.
 
-<!--
-**yobqh5119/yobqh5119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Expertise
+My expertise is in frontend development, and I especially love working with frontend technologies. Some of them are listed below, but I particularly enjoy working with HTML, CSS, JavaScript, TypeScript, and React, which is my framework of choice. I enjoy using React Query alongside React to address any data-fetching problems and cache-related issues. I believe React Query does a wonderful job simplifying these topics for engineers using React.
 
-Here are some ideas to get you started:
+I also have experience working with Storybook, as I had the opportunity to develop our team's design system from scratch using Recipe and Vanilla Extract CSS. Storybook is fantastic for any team building custom components because it provides an easy and effective way to preview these components in the Storybook environment. It also supports various tests, such as visual testing, which helps with scalability and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Additionally, I have experience with many other tools and practices, such as end-to-end tests using Cypress and working on accessibility. However, if I were to include everything here, it might take a while. If you have any further questions about my experience, feel free to reach out!
+
+# Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" /><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /><img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+
+# What I am working on 💻
+I am currently spending some time on building things with Next.js and also looking into a bit of Remix as well to get better understanding of how these meta frameworks are helping to resolve different problems. I also enjoy spending some time on different learning platform such as Frontend Masters and ui.dev to keep my skills sharp. 
